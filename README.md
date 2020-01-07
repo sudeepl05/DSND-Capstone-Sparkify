@@ -4,52 +4,6 @@
 ### Overview
 This project is part of my Data Science Nano-degree at Udacity. In this final project, i will attempt to create a machine learning model, which will be able to predict when users at Sparkify are about to churn.
 
-### The possible event types are:
-
-+--------------------------+
-
-| Cancel|
-
-| Submit Downgrade|
-
-| Thumbs Down|
-
-| Home|
-
-| Downgrade|
-
-| Roll Advert|
-
-| Logout|
-
-| Save Settings|
-
-| Cancellation Confirmation|
-
-| About|
-
-| Settings|
-
-| Add to Playlist|
-
-| Add Friend|
-
-| NextSong|
-
-| Thumbs Up|
-
-| Help|
-
-| Upgrade|
-
-| Error|
-
-| Submit Upgrade|
-
-+--------------------------+
-
-Where the type 'Cancellation Confirmation' is set equal to users churning.
-
 ### Problem
 The high intensity of this project is because of the large amount of data, all of our data wrangling and model creating has to be done using Apache Spark. This adds another level of abstraction on top of the already well-established process, but it does enable us to work with bigger data than we would otherwise be able to.
 
