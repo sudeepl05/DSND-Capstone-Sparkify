@@ -6,7 +6,7 @@ This project is part of my Data Science Nano-degree at Udacity. In this final pr
 
 ### Blog
 I published a post on Medium to go through the Analysis. Please find the link here
-(https://medium.com/@sudeeplaha/predict-user-churn-using-pyspark-sparkify-e18d28cce5c7)
+https://medium.com/@sudeeplaha/predict-user-churn-using-pyspark-sparkify-e18d28cce5c7
 
 ### Problem
 The high intensity of this project is because of the large amount of data, all of our data wrangling and model creating has to be done using Apache Spark. This adds another level of abstraction on top of the already well-established process, but it does enable us to work with bigger data than we would otherwise be able to.
